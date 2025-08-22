@@ -38,7 +38,7 @@
     "browserify-aes": "0.4.0",
     "pbkdf2-compat": "2.0.1",
     "ripemd160": "0.2.0",
-    "sha.js": "2.2.6"
+    "sha.js": "2.4.12"
   },
   "deprecated": false,
   "description": "partial implementation of crypto for the browser",
